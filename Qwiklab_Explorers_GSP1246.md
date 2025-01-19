@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Tag-and-Discover-BigLake-Data-Challenge-Lab-ARC123/refs/heads/main/qwiklab_explorers_arc123.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Analyze-Customer-Reviews-with-Gemini-Using-SQL-GSP1246/refs/heads/main/qwiklab_explorers_gsp1246.sh
 
-sudo chmod +x qwiklab_explorers_arc123.sh
+sudo chmod +x qwiklab_explorers_gsp1246.sh
 
-./qwiklab_explorers_arc123.sh
+./qwiklab_explorers_gsp1246.sh
 ```
 
 ---
